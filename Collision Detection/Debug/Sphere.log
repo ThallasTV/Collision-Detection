@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  BlobDemo.cpp
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(15): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(52): warning C4018: '<': signed/unsigned mismatch
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(158): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(215): warning C4018: '<': signed/unsigned mismatch
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(221): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(229): warning C4018: '<': signed/unsigned mismatch
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(254): warning C4018: '<': signed/unsigned mismatch
+d:\mcomp computer games development\oop\cw1\cs4d768 tutorial 5-student_ooblob\src\blobdemo.cpp(265): warning C4018: '<': signed/unsigned mismatch
+  Sphere.vcxproj -> D:\Mcomp Computer Games Development\OOP\CW1\CS4D768 Tutorial 5-Student_OOblob\Sphere\..\Debug\Sphere.exe
+  Sphere.vcxproj -> ..\Debug\Sphere.pdb (Full PDB)
